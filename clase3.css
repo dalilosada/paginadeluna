@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=06eb4ba2ae&attid=0.1&permmsgid=msg-f:1747253431128403112&th=183f7dbcfefdaca8&view=fimg&disp=thd&attbid=ANGjdJ87X1Av59XDOgK24Jdal-CeuclTmTXuW6FqCzTE_gnA-4KzaM1aUkM08cZ_w6Dw48FtToqIiBD5H7z3tJT0iT-vTckbPZRp7XPBHJgi0HqnmfJai2imIzuOF5k&ats=2524608000000&sz=w1849-h913");
+    background-repeat: repeat;
+    background-size:auto
+    width: 1800px;
+    height: 1800px;
+    color:rgb(255, 196, 229)
+    }
+    .formulario{
+        margin: 10 px 20 px 30 px 40 px;
+        padding: 10 px 20 px 30 px 40 px;
+        background-color: bisque;
+        width: 200px;
+        height: 150px;
+        border-style: 3px solid rgb(45, 221, 89);
+        display: inline-block;
+    }   
+    .Curiosidadesdeluna{
+        color:rgb(101, 38, 74);
+    }
+    .tienecinco{
+        color: rgb(40, 21, 30);
+        font-family: arial;
+    }
+    .LunaYsusCosas{
+    list-style-type: upper-roman;
+    color:rgb(160, 86, 128)
+    }
+    body{ 
+        font-family: Helvetica;
+    }
