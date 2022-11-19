@@ -28,8 +28,8 @@ header{
     width: 100%;
     height: 600px;
     background: #ee9ca7;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to top, #ffdde16c, #ee9ca777), url(../lunaportada.png.png);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to top, #ffdde1a6, #ee9ca7a2), url(../lunaportada.png.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to top, #ffdde16c, #ee9ca777), url(https://mail.google.com/mail/u/0?ui=2&ik=06eb4ba2ae&attid=0.1&permmsgid=msg-a:r8147624379083280846&th=18491786dce9eb09&view=fimg&realattid=f_laocurea0&disp=thd&attbid=ANGjdJ_Pn4qeAjPfUmZSSIpqC92DG9JSoUma5ogEn0zrCFLIv4FJdxNkn7i93WeQK7G8F2jrpCgplIbn1Ur6zndKGiBojTAfp11plZchcVjy8EZT7HwCXXw1bQoiMcI&ats=2524608000000&sz=w1849-h913);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #ffdde1a6, #ee9ca7a2), url(https://mail.google.com/mail/u/0?ui=2&ik=06eb4ba2ae&attid=0.1&permmsgid=msg-a:r8147624379083280846&th=18491786dce9eb09&view=fimg&realattid=f_laocurea0&disp=thd&attbid=ANGjdJ_Pn4qeAjPfUmZSSIpqC92DG9JSoUma5ogEn0zrCFLIv4FJdxNkn7i93WeQK7G8F2jrpCgplIbn1Ur6zndKGiBojTAfp11plZchcVjy8EZT7HwCXXw1bQoiMcI&ats=2524608000000&sz=w1849-h913); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size:cover;
 background-attachment: fixed;
 position: relative;
